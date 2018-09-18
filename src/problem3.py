@@ -109,7 +109,9 @@ def problem3(point, length, delta, window):
     vertline.attach_to(window)
 
 
+
 # ----------------------------------------------------------------------
-# Calls  main  to start the ball rolling.
+# Calls  main  to start the ball rolling.l
 # ----------------------------------------------------------------------
 main()
+
